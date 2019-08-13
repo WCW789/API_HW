@@ -1,5 +1,3 @@
-# API_HW
-
 Observations:
 
 1) There is a noticeable rise in the max temperature as the latitude increases toward zero (where the equator is) and a definite decrease as the latitude increases (toward the North Pole)
